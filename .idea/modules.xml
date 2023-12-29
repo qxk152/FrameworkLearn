@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo1/spring-boot-demo1.iml" filepath="$PROJECT_DIR$/spring-boot-demo1/spring-boot-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo5-properies/spring-boot-demo5-properies.iml" filepath="$PROJECT_DIR$/spring-boot-demo5-properies/spring-boot-demo5-properies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo6-yml/spring-boot-demo6-yml.iml" filepath="$PROJECT_DIR$/spring-boot-demo6-yml/spring-boot-demo6-yml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-enableConfigurationProperties/spring-boot-enableConfigurationProperties.iml" filepath="$PROJECT_DIR$/spring-boot-enableConfigurationProperties/spring-boot-enableConfigurationProperties.iml" />
+    </modules>
+  </component>
+</project>

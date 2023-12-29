@@ -1,0 +1,68 @@
+{
+  "groups": [
+    {
+      "name": "custom",
+      "type": "com.qxk.config.CustomPorpeties",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "custom.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.qxk.config.CustomPorpeties",
+      "defaultValue": 0
+    },
+    {
+      "name": "custom.arr1",
+      "type": "java.lang.String[]",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    },
+    {
+      "name": "custom.arr2",
+      "type": "java.lang.String[]",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    },
+    {
+      "name": "custom.flag",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    },
+    {
+      "name": "custom.list1",
+      "type": "java.util.List",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    },
+    {
+      "name": "custom.list2",
+      "type": "java.util.List",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    },
+    {
+      "name": "custom.map1",
+      "type": "java.util.Map",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    },
+    {
+      "name": "custom.map2",
+      "type": "java.util.Map",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    },
+    {
+      "name": "custom.string",
+      "type": "java.lang.String",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    },
+    {
+      "name": "custom.user1",
+      "type": "com.qxk.bean.User",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    },
+    {
+      "name": "custom.user2",
+      "type": "com.qxk.bean.User",
+      "sourceType": "com.qxk.config.CustomPorpeties"
+    }
+  ],
+  "hints": []
+}

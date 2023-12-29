@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "druid.datasource",
+      "type": "com.qxk.config3.DataSourceProperties",
+      "sourceType": "com.qxk.config3.DataSourceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "druid.datasource.driver",
+      "type": "java.lang.String",
+      "sourceType": "com.qxk.config3.DataSourceProperties"
+    },
+    {
+      "name": "druid.datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "com.qxk.config3.DataSourceProperties"
+    },
+    {
+      "name": "druid.datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "com.qxk.config3.DataSourceProperties"
+    },
+    {
+      "name": "druid.datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "com.qxk.config3.DataSourceProperties"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,16 @@
+custom:
+  string: songge
+  age: 88
+  flag: false
+  list1: list1,l1,2,3
+  list2:
+    - data4
+    - data5
+  map1:
+    key1: value1
+    key2: value2
+  map2: {key3: value3,key4: value4}
+  user1:
+    username: jj
+    password: 222
+  user2: {username: jjj,password: 999}

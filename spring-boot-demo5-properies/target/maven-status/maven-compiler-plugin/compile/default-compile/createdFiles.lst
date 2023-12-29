@@ -1,0 +1,5 @@
+com\qxk\Demo5Application.class
+com\qxk\bean\User.class
+com\qxk\config\CustomConfiguration.class
+META-INF\spring-configuration-metadata.json
+com\qxk\config\CustomPorpeties.class
